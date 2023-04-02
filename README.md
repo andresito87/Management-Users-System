@@ -1,6 +1,3 @@
-# Management-Users-System
-Register, Login and Control Users System
-
 # Registro, Login y Gestion de Usuarios con Spring Boot, Spring Security, JWT, MySQL, JPA y Hibernate
 
 
@@ -16,27 +13,12 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Clonar el repositorio, compilar el proyecto con Maven y arrancar el servidor Tomcat Embebido desde IntelliJ_
 
 ```
-Da un ejemplo
+[Da un ejemplo](http://localhost:81/index.html)
 ```
 
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
