@@ -45,7 +45,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Lucas Moy** - *Tutorial* - [lucasmoy-dev](https://github.com/lucasmoy-dev)
+* **Lucas Moy** - *Curso de Java* - [lucasmoy-dev](https://github.com/lucasmoy-dev)(https://www.youtube.com/watch?v=7vHzVN0EiQc&t=9597s&ab_channel=ATLAcademy%28byLucasMoy%29)
 
 ---
 ⌨️ con ❤️ por [andresito87](https://github.com/andresito87) 😊
