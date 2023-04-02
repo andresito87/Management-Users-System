@@ -15,10 +15,6 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 _Clonar el repositorio, compilar el proyecto con Maven y arrancar el servidor Tomcat Embebido desde IntelliJ_
 
-```
-[Da un ejemplo](http://localhost:81/index.html)
-```
-
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
@@ -26,7 +22,11 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Punto de entrada de la aplicación_
+
+```
+[Da un ejemplo](http://localhost:81/index.html)
+```
 
 ## Construido con 🛠️
 
@@ -40,14 +40,12 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 
 
-## Autores ✒️
+## Colaboradores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Lucas Moy** - *Tutorial* - [lucasmoy-dev](https://github.com/lucasmoy-dev)
 
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto.
 
 ## Licencia 📄
 
