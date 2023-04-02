@@ -13,12 +13,10 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
+_XAMP con servidor Apache y Mysql para la base de datos de usuarios_
+
 _Clonar el repositorio, compilar el proyecto con Maven y arrancar el servidor Tomcat Embebido desde IntelliJ_
 
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-![Imagen de ejemplo](app.png)
 
 ## Despliegue 📦
 
@@ -27,6 +25,8 @@ _Punto de entrada de la aplicación_
 ```
 [Da un ejemplo](http://localhost:81/index.html)
 ```
+
+![Imagen de ejemplo](app.png)
 
 ## Construido con 🛠️
 
