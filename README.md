@@ -23,7 +23,7 @@ _Clonar el repositorio, compilar el proyecto con Maven y arrancar el servidor To
 _Punto de entrada de la aplicación_
 
 ```
-[Da un ejemplo](http://localhost:81/index.html)
+(http://localhost:81/index.html)
 ```
 
 ![Imagen de ejemplo](app.png)
